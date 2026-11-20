@@ -1,0 +1,34 @@
+{
+ "region": "경북 안동시 동문동",
+ "nameEn": "Catholic Sangji College",
+ "added": "2026-11-01T02:27",
+ "rank": 208,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "GKNU",
+   "campus": "국립경국대학교 안동캠퍼스",
+   "km": 6.3
+  },
+  {
+   "code": "ASC",
+   "campus": "안동과학대학교",
+   "km": 7.7
+  },
+  {
+   "code": "GKNU-YECHEON",
+   "campus": "국립경국대학교 예천캠퍼스",
+   "km": 26.3
+  },
+  {
+   "code": "KBC",
+   "campus": "경북전문대학교",
+   "km": 28.3
+  },
+  {
+   "code": "DONGYANG",
+   "campus": "동양대학교",
+   "km": 39.2
+  }
+ ]
+}
